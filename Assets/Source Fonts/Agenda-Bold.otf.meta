@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 890e7b4baa9e44330b67581d5a446dfb
+timeCreated: 1521630067
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: 0
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Agenda
+  fontNames:
+  - Agenda
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9735b9646a771421f97663690ff1843f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

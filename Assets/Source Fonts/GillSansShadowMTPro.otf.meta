@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 081df82b738da4de787d1d8655bb0b99
+timeCreated: 1521534265
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gill Sans Shadow MT Pro
+  fontNames:
+  - Gill Sans Shadow MT Pro
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
